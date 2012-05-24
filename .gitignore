@@ -14,3 +14,5 @@ public/css/styles.css.save
 .project
 public/tinymce/jscripts/tiny_mce/plugins/tiny_mce_wiris/formulas/*.xml
 public/tinymce/jscripts/tiny_mce/plugins/tiny_mce_wiris/cache/*.png
+config.bat
+node_modules
